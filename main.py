@@ -40,4 +40,4 @@ for path in mother_folder:
         
         # Capturando erro.
         except os.error as exceptError:
-            print("Erro: {}".format(exceptError))
+            print("Error: {}".format(exceptError))
